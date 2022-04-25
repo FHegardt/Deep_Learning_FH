@@ -12,6 +12,7 @@ matplotlib = "*"
 tensorflow = "*"
 ipykernel = "*"
 black = "*"
+opencv-python = "*"
 
 [dev-packages]
 
