@@ -1,6 +1,7 @@
 # Data
 
 originaldata
+experiment_small_data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
