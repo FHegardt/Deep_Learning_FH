@@ -5,16 +5,10 @@ name = "pypi"
 
 [packages]
 numpy = "*"
-pandas = "*"
-sklearn = "*"
-seaborn = "*"
+tensorflow = "*"
 matplotlib = "*"
-tensorflow = "*"
-ipykernel = "*"
-black = "*"
-opencv-python = "*"
-tensorflow-datasets = "*"
-tensorflow = "*"
+pandas = "*"
+seaborn = "*"
 
 [dev-packages]
 
