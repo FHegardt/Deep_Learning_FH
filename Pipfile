@@ -9,8 +9,10 @@ tensorflow = "*"
 matplotlib = "*"
 pandas = "*"
 seaborn = "*"
+opencv-python = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.9"
