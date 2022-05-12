@@ -11,6 +11,8 @@ pandas = "*"
 seaborn = "*"
 opencv-python = "*"
 sklearn = "*"
+nltk = "*"
+pyjokes = "*"
 
 [dev-packages]
 ipykernel = "*"
